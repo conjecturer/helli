@@ -13,3 +13,7 @@ build/
 README
 LICENSE
 Makefile
+
+#personal ignorance
+.info
+
