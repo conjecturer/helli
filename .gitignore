@@ -1,0 +1,15 @@
+*.d
+*.o
+*.a
+*.obj
+*.lib
+*.so
+*.dll
+
+
+bin/
+build/
+
+README
+LICENSE
+Makefile
